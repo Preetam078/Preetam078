@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preetam Mondal</h1>
 <h3 align="center">A passionate FullStack developer from India Pursued Master of Computer Application From NIT Raipur</h3>
 
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcode-diggers-369%2Fcode-diggers-369&psig=AOvVaw1Zz8vORaLdbGRXB4GvhB16&ust=1685125141331000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjYw72Kkf8CFQAAAAAdAAAAABBA">
+<img align="right" alt="coding" src="https://miro.medium.com/v2/resize:fit:720/1*9m-WDdL_ji01bGbjEnutEw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetam078&label=Profile%20views&color=0e75b6&style=flat" alt="preetam078" /> </p>
 
